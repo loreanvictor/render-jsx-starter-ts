@@ -30,6 +30,6 @@
     "webpack-merge": "^5.1.4"
   },
   "dependencies": {
-    "render-jsx": "0.0.7"
+    "render-jsx": "^0.2.4"
   }
 }
